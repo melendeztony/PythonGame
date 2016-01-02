@@ -4,16 +4,23 @@
       <w>battleaxe</w>
       <w>checklife</w>
       <w>chestpiece</w>
+      <w>coldisplayjobid</w>
+      <w>coloriginaljobtitle</w>
       <w>conmodifier</w>
+      <w>descr</w>
       <w>dexmodifier</w>
       <w>diceroll</w>
       <w>drago</w>
       <w>gnoll</w>
       <w>heroclass</w>
       <w>intmodifier</w>
+      <w>jobdescription</w>
       <w>legguards</w>
+      <w>lockheedmartinjobs</w>
       <w>mage</w>
       <w>mongo</w>
+      <w>nmap</w>
+      <w>raytheon</w>
       <w>recurve</w>
       <w>retval</w>
       <w>skyguard</w>
@@ -21,6 +28,7 @@
       <w>stompers</w>
       <w>strmodifier</w>
       <w>warhammer</w>
+      <w>whois</w>
     </words>
   </dictionary>
 </component>

@@ -1,8 +1,8 @@
-'''
+"""
 At the start of the game the user selects class, based on that selection the users hero will be assigned
 attributes correlating to the type of hero. Attributes determine the hero's ability to use certain spell and weapons
 and also determine the amount of health that the character has at the start of the game.
-'''
+"""
 
 base = 10
 
